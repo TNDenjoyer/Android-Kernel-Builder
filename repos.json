@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
       "name": "TNDenjoyer",
-      "repo": "https://github.com/TNDenjoyer/Xiaomi_Kernel_OpenSource",
-      "branch": "lancelot-q-oss",
+      "repo": "https://github.com/smlinux/kernel_lancelot",
+      "branch": "master",
       "device": "lancelot"
     },
     "withKernelSU": true,
